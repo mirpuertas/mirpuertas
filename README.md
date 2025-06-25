@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Miguel Ignacio Rodríguez Puertas
 
-<!--
-**mirpuertas/mirpuertas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Programador – Analista de Ciencia de Datos**  
+Estudiante de Ciencia de Datos en UNSAM  
+Intereses: estadística bayesiana • análisis espacial • simulación estadística
 
-Here are some ideas to get you started:
+---
+## 🛠 Tecnologías y herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Lenguajes:**  
+Python • R • Java • SQL  
+
+**Librerías / Frameworks:**  
+PyMC • Pandas • GeoPandas • Scikit-learn • Flask • Streamlit • Rasterio  
+
+**Herramientas / Plataformas:**  
+QGIS • Git • PostgreSQL
+
+---
+
+## 🧩 Sobre mí
+
+Soy un profesional con experiencia en mantenimiento de hardware, soporte técnico y enseñanza de lenguas extranjeras. Actualmente curso la **Licenciatura en Ciencia de Datos en la Universidad Nacional de San Martín**, con énfasis en estadística aplicada, inferencia causal, análisis espacial y programación.
+
+Me interesa el desarrollo de soluciones analíticas para problemas reales, combinando conocimientos en estadística, programación y visualización. Trabajo principalmente con **Python, R, SQL y QGIS**, y tengo experiencia en proyectos de:
+
+- Inferencia bayesiana y causal
+- Modelos multitemporales y simulación
+- Análisis geoespacial y sensores remotos
+- Desarrollo de herramientas analíticas con visualización interactiva
+
+---
+
+## 🚀 Proyectos destacados
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| [🧑‍💻 Generador automático de usuarios](https://github.com/mirpuertas/user_generator) | Crea nombres de usuario y asigna una VM automáticamente a partir de nombre, apellido y área. Permite crear, buscar o eliminar usuarios en una tabla SQL simulada. | Python, SQLite |
