@@ -27,6 +27,8 @@ Me interesa el desarrollo de soluciones analíticas para problemas reales, combi
 - Desarrollo de herramientas analíticas con visualización interactiva
 
 ## 🚀 Proyectos destacados
+
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| [🧑‍💻 Generador automático de usuarios](https://github.com/mirpuertas/user_generator) | Crea nombres de usuario y asigna una VM automáticamente a partir de nombre, apellido y área. Permite crear, buscar o eliminar usuarios en una tabla SQL simulada. | Python, SQLite |
+| [🧪 Evaluación de CalCause – ACIC 2016](https://github.com/mirpuertas/calcause-acic2016) | Ensamble causal (RF + GP) para estimar el efecto del tratamiento (SATT) en datos simulados. Participación estilo competencia, con validación cruzada y bootstrap. | Python, Scikit-learn, SciPy, joblib |
+| [🧑‍💻 Generador automático de usuarios](https://github.com/mirpuertas/user_generator) | Crea nombres de usuario y asigna una VM ficticia a partir de nombre, apellido y área. Permite crear, buscar o eliminar usuarios en una tabla SQLite simulada. | Python, SQLite |
