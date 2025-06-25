@@ -31,6 +31,6 @@ Me interesa el desarrollo de soluciones analíticas para problemas reales, combi
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
 | [🧪 Evaluación de CalCause – ACIC 2016](https://github.com/mirpuertas/calcause-acic2016) | Ensamble causal (RF + GP) para estimar el efecto del tratamiento (SATT) en datos simulados. Participación tipo competencia con validación cruzada y bootstrap. Proyecto académico (Inferencia Bayesiana Causal – UNSAM). | Python, Scikit-learn, SciPy, joblib |
-| [🧊 Cubo OLAP en Java](https://github.com/mirpuertas/cubo-olap-java) | Implementación desde cero de un cubo OLAP modular con medidas agregadas y carga desde CSV. Proyecto académico (Algoritmos I – UNSAM). | Java |
+| [🧊 Cubo OLAP en Java](https://github.com/mirpuertas/cubo-olap) | Implementación desde cero de un cubo OLAP modular con medidas agregadas y carga desde CSV. Proyecto académico (Algoritmos I – UNSAM). | Java |
 | [🧑‍💻 Generador automático de usuarios](https://github.com/mirpuertas/user_generator) | Crea nombres de usuario y asigna una VM ficticia a partir de nombre, apellido y área. Permite crear, buscar o eliminar usuarios en una tabla SQLite simulada. | Python, SQLite |
 
