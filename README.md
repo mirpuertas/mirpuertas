@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Miguel Ignacio Rodríguez Puertas
+# 👋 ¡Hola! Soy Miguel Puertas
 
 **Programador – Analista de Ciencia de Datos**  
 Estudiante de Ciencia de Datos en UNSAM  
