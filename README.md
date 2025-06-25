@@ -4,7 +4,6 @@
 Estudiante de Ciencia de Datos en UNSAM  
 Intereses: estadística bayesiana • análisis espacial • simulación estadística
 
----
 ## 🛠 Tecnologías y herramientas
 
 **Lenguajes:**  
@@ -16,8 +15,6 @@ PyMC • Pandas • GeoPandas • Scikit-learn • Flask • Streamlit • Raste
 **Herramientas / Plataformas:**  
 QGIS • Git • PostgreSQL
 
----
-
 ## 🧩 Sobre mí
 
 Soy un profesional con experiencia en mantenimiento de hardware, soporte técnico y enseñanza de lenguas extranjeras. Actualmente curso la **Licenciatura en Ciencia de Datos en la Universidad Nacional de San Martín**, con énfasis en estadística aplicada, inferencia causal, análisis espacial y programación.
@@ -28,8 +25,6 @@ Me interesa el desarrollo de soluciones analíticas para problemas reales, combi
 - Modelos multitemporales y simulación
 - Análisis geoespacial y sensores remotos
 - Desarrollo de herramientas analíticas con visualización interactiva
-
----
 
 ## 🚀 Proyectos destacados
 | Proyecto | Descripción | Tecnologías |
