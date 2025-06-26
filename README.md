@@ -40,3 +40,8 @@ Me interesa desarrollar soluciones analíticas para problemas reales, combinando
 | [🧊 Cubo OLAP en Java](https://github.com/mirpuertas/cubo-olap) | Implementación desde cero de un cubo OLAP modular con medidas agregadas y carga desde CSV. Proyecto académico (Trabajo final – Algoritmos I, UNSAM). | Java |
 | [🧑‍💻 Generador automático de usuarios](https://github.com/mirpuertas/user_generator) | Crea nombres de usuario y asigna una VM ficticia a partir de nombre, apellido y área. Permite crear, buscar o eliminar usuarios en una tabla SQLite simulada. | Python, SQLite |
 
+### 🔄 En desarrollo / cierre académico
+
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| 🚇 **Accesibilidad multimodal AMBA (2001-2022)** | **WIP.** Caso de estudio de la red de transporte del Área Metropolitana de Buenos Aires (subte, tren, Metrobus y colectivos). Muestra que la métrica clásica de “parada ≤ 800 m” está saturada (> 96 % cobertura) y ya no capta la inequidad real: la brecha actual se manifiesta en la **frecuencia del servicio** y el **tiempo puerta a puerta**. Incluye mapas comparativos 2001-10-22, un logit densidad × alta_bus y discusión metodológica sobre la necesidad de usar GTFS. | Python, GeoPandas, Statsmodels, QGIS |
