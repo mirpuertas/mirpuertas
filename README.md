@@ -4,7 +4,7 @@
 Estudiante de Ciencia de Datos en UNSAM  
 Intereses: estadística bayesiana • análisis espacial • simulación estadística
 
-## 🛠 Tecnologías y herramientas
+## Tecnologías y herramientas
 
 **Lenguajes:**  
 Python • R • Java • SQL  
@@ -18,7 +18,7 @@ QGIS • Git • PostgreSQL
 **Documentación científica:**
 Uso frecuente de $\LaTeX$ en análisis y documentación científica
 
-## 🧩 Sobre mí
+## Sobre mí
 
 Soy un profesional con experiencia en mantenimiento de hardware, soporte técnico y enseñanza de lenguas extranjeras. Actualmente curso la **Licenciatura en Ciencia de Datos en la Universidad Nacional de San Martín**, con énfasis en estadística aplicada, inferencia causal, análisis espacial y programación.
 
@@ -29,7 +29,7 @@ Me interesa desarrollar soluciones analíticas para problemas reales, combinando
 - Análisis geoespacial y sensores remotos
 - Desarrollo de herramientas analíticas con visualización interactiva
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
@@ -40,7 +40,7 @@ Me interesa desarrollar soluciones analíticas para problemas reales, combinando
 | [🧊 Cubo OLAP en Java](https://github.com/mirpuertas/cubo-olap) | Implementación desde cero de un cubo OLAP modular con medidas agregadas y carga desde CSV. Proyecto académico (Trabajo final – Algoritmos I, UNSAM). | Java |
 | [🧑‍💻 Generador automático de usuarios](https://github.com/mirpuertas/user_generator) | Crea nombres de usuario y asigna una VM ficticia a partir de nombre, apellido y área. Permite crear, buscar o eliminar usuarios en una tabla SQLite simulada. | Python, SQLite |
 
-### 🔄 En desarrollo / cierre académico
+### En desarrollo / cierre académico
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
