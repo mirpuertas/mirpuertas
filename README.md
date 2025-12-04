@@ -1,33 +1,42 @@
-# 👋 ¡Hola! Soy Miguel Puertas
+# ¡Hola! Soy Miguel Puertas
 
 **Programador – Analista en Ciencia de Datos**  
-Estudiante de Ciencia de Datos en UNSAM  
-Intereses: estadística bayesiana • análisis espacial • simulación estadística
+Estudiante avanzado de Ciencia de Datos (UNSAM)
+Intereses: estadística bayesiana • análisis espacial • inferencia causal • simulación estadística
 
 ## Tecnologías y herramientas
 
-**Lenguajes:**  
-Python • R • Java • SQL  
+**Lenguajes:**
+Python • R • Java • SQL
 
-**Librerías / Frameworks:**  
-PyMC • Pandas • GeoPandas • Scikit-learn • Flask • Streamlit • Rasterio  
+**Modelado y estadística:**
+PyMC (incl. NUTPIE – sampler Rust) • ArviZ • SciPy • Statsmodels • Scikit-learn • NumPy • Pandas
 
-**Herramientas / Plataformas:**  
-QGIS • Git • PostgreSQL
+**Backend y APIs:**
+FastAPI • SQLAlchemy • Alembic • Supabase (PostgreSQL) • Docker • Render • Postman
+
+**Datos geoespaciales:**
+GeoPandas • Rasterio • QGIS • Sentinel-2
+
+**Computación y DevOps:**
+Git • Docker • CI/CD básico • Entornos virtuales • Gestión de dependencias
 
 **Documentación científica:**
-Uso frecuente de $\LaTeX$ en análisis y documentación científica
+$\LaTeX$ • Jupyter/Colab • Reportes reproducibles
 
 ## Sobre mí
 
-Soy un profesional con experiencia en mantenimiento de hardware, soporte técnico y enseñanza de lenguas extranjeras. Actualmente curso la **Licenciatura en Ciencia de Datos en la Universidad Nacional de San Martín**, con énfasis en estadística aplicada, inferencia causal, análisis espacial y programación.
+Soy programador y analista en formación, con experiencia previa en soporte técnico, mantenimiento de hardware y enseñanza de lenguas extranjeras. Actualmente curso la **Licenciatura en Ciencia de Datos en la Universidad Nacional de San Martín**, donde me especializo en estadística aplicada, inferencia bayesiana y causal, análisis espacial y desarrollo backend transaccional.
 
-Me interesa desarrollar soluciones analíticas para problemas reales, combinando estadística, programación y visualización interactiva. Trabajo principalmente con **Python, R, SQL y QGIS**, y tengo experiencia en proyectos de:
+Me interesa desarrollar soluciones analíticas para problemas reales, integrando modelado estadístico, programación y visualización interpretable, con un enfoque en reproducibilidad y buenas prácticas de ingeniería de software.
 
-- Inferencia bayesiana y causal
-- Modelos multitemporales y simulación
-- Análisis geoespacial y sensores remotos
-- Desarrollo de herramientas analíticas con visualización interactiva
+Trabajo principalmente con Python, R, SQL y QGIS, y tengo experiencia en proyectos de:
+
+- Inferencia bayesiana y causal (modelos jerárquicos, mixtos, mixtures, evidencia marginal, NUTPIE)
+- Modelos multitemporales y simulación (armónicas temporales, Monte Carlo, TrueSkill Through Time + Kelly)
+- Análisis geoespacial y sensores remotos (NDVI/NBR/NDMI, ΔNBR, multitemporal, Sentinel-2, accesibilidad urbana)
+- Desarrollo backend transaccional (FastAPI + SQLAlchemy + Alembic + Supabase + Docker)
+- Aplicaciones interactivas (Streamlit, visualizaciones geográficas y estadísticas)
 
 ## Proyectos destacados
 
